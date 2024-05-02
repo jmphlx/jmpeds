@@ -27,5 +27,8 @@
     "eslint-plugin-import": "2.29.1",
     "stylelint": "16.3.1",
     "stylelint-config-standard": "36.0.0"
+  },
+  "dependencies": {
+    "@vidyard/embed-code": "^4.3.14"
   }
 }
