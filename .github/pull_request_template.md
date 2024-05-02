@@ -4,7 +4,8 @@ Fix #<gh-issue-id>
 
 Test URLs:
 - Before: https://main--jmpeds--jmphlx.hlx.live/
-- After: https://branch--jmpeds--jmplx.hlx.live/
+- After: https://{branch}--jmpeds--jmplx.hlx.live/
 
 URL for testing:
-- https://branch--jmpeds--jmphlx.hlx.page/
+
+- https://{branch}--jmp-da--jmphlx.hlx.page/
